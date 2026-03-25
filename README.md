@@ -8,9 +8,9 @@
 
 ## 💫 About Me
 
-Hey, how you doin'? 👋 I'm **Nirmal Kumar Murali**, a passionate Data Analytics and AI enthusiast currently pursuing my **Master's in Data Science & Analytics at EPITA, Paris**. I love solving real-world problems using Python, SQL, Power BI, and Machine Learning.
+Hey, 👋 I'm **Nirmal Kumar Murali**, a passionate Data Analytics and AI enthusiast currently pursuing my **Master's in Data Science & Analytics at EPITA, Paris**. I love solving real-world problems using Python, SQL, Power BI, and Machine Learning.
 
-🔹 **What I Do:**
+🔹 **Inshort about me:**
 
 📊 Data Analysis & Visualisation — Python, SQL, Power BI, Tableau, Excel
 
@@ -123,7 +123,7 @@ LIMIT 5;
 - 🚲 I commute across Paris on a **Vélib** — best way to think through data problems
 - ☕ Best code happens at **2am** — that's just science
 - 🎮 Analysed **10,000+ Steam games** and proved Portal 2 is the most loved game ever
-- 📈 Built **3 solo data projects** from scratch to prove skills are real
+- 📈 Built **3 data projects** from scratch to prove skills are real
 
 ---
 
