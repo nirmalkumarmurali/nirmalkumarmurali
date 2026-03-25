@@ -6,7 +6,7 @@
 
 ---
 
-## 💫 About Me
+## 🤖 About Me
 
 Hey, 👋 I'm **Nirmal Kumar Murali**, a passionate Data Analytics and AI enthusiast currently pursuing my **Master's in Data Science & Analytics at EPITA, Paris**. I love solving real-world problems using Python, SQL, Power BI, and Machine Learning.
 
