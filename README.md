@@ -72,8 +72,8 @@ Hey, 👋 I'm **Nirmal Kumar Murali**, a passionate Data Analytics and AI enthus
 | Project | Stack | Status | Link |
 |---------|-------|--------|------|
 | 🎮 Steam Publisher & Developer Analytics | Python · SQL · Power BI · Pandas | ✅ Complete | [View →](https://github.com/nirmalkumarmurali/steam-publisher-analytics) |
-| 🤖 End-to-End ML Pipeline | Python · Scikit-Learn · MLflow | 🔄 In Progress | Coming Soon |
-| 💬 AI Job Description Analyser | Python · NLP · Hugging Face · Streamlit | 🔄 Coming Soon | Coming Soon |
+| 🤖 Customer Churn ML Pipeline | Python · Scikit-Learn · MLflow · Plotly | ✅ Complete | [View →](https://github.com/nirmalkumarmurali/Customer-Churn-ML-Pipeline-) |
+| 💬 AI Job Description Analyser | Python · NLP · spaCy · Streamlit | 🔄 In Progress | [View →](https://github.com/nirmalkumarmurali/ai-jd-analyser) |
 
 ---
 
